@@ -1,5 +1,5 @@
 # HR-Attrition-Dashboard
-🌐 HR Attrition Analysis Dashboard: A dynamic Power BI dashboard designed to analyze and visualize employee attrition trends across various job roles, age groups, education fields, and salary brackets. This interactive solution provides HR and management teams with actionable insights into workforce stability, identifying critical areas contributing to high turnover and aiding in retention strategy development.
+🌐 HR Attrition Analysis Dashboard: A dynamic Power BI dashboard designed to analyze and visualize employee attrition trends across various job roles, age groups, education fields, and salary brackets. This interactive solution provides HR and management teams with actionable insights into workforce stability, identifying critical areas that contribute to high turnover and aiding in the development of retention strategies.
 
 📌 Short Description / Purpose
 The HR Attrition Dashboard serves as a strategic analytical tool for tracking and understanding patterns of employee attrition. With built-in filters by department and gender, and segmented views across roles, education fields, and compensation levels, this dashboard supports data-driven decisions for HR planning and policy improvement.
